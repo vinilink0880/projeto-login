@@ -3,7 +3,8 @@
 /*
     paleta de cores
     verde: #49a09d
-    lilas: #5f2c82
+    lilas: #5f2c82g
+    
 */
 
 :root {
@@ -87,7 +88,7 @@ div.campo > label {
 div.campo > span {
     color: white;
     font-size: 2em;
-    width: 40px;
+    width: 30px;
     padding: 5px;
 }
 

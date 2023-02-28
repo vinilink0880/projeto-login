@@ -69,8 +69,6 @@ div#formulario > p {
     font-size: 0.8em;
 }
 
-
-
 form > div.campo {
     display: block;
     background-color: var(--cor2--);
